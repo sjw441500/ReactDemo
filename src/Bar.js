@@ -7,7 +7,7 @@ super(props);
 this.state={title:"",url:""};
 
 }
-
+// class component with url and title
 UrlOnChange= e=>{
 this.setState({url:e.target.value});
 }
