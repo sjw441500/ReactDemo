@@ -4,7 +4,7 @@ import './App.css';
 import Bar from './Bar';
 import List from './List'
 class App extends Component {
-
+// main 
   constructor(){
     super();
     this.state={list:[]};
